@@ -10,7 +10,7 @@ const createWindow = () => {
     }
   })
 
-  win.loadFile('src/index.html')
+  win.loadFile('src/chart.html')
 }
 
 app.whenReady().then(() => {
